@@ -1,6 +1,6 @@
 # basic_level_compare
 
-basic_level_compare.py takes 3 arguments, big, small, and two_or_three
+::basic_level_compare.py:: takes 3 arguments, big, small, and two_or_three
 
 big is the path of the basic_level file that has a greater number of rows
 small is the path of the basic_level file that has a smaller number of rows
